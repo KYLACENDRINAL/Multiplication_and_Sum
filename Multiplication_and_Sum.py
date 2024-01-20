@@ -18,3 +18,7 @@ def Multiplication_or_Sum(num1, num2):
 # Print the result of the first condition
 result=Multiplication_or_Sum(20, 30)
 print ("The result is", result)
+
+# Print the result of the second condition
+result=Multiplication_or_Sum(40, 30)
+print ("The result is", result)
