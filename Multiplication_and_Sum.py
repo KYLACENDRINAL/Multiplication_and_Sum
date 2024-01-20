@@ -14,3 +14,7 @@ def Multiplication_or_Sum(num1, num2):
     else:
 # Calculate the sum of two numbers if the product is greater than 1000
         return num1+num2
+    
+# Print the result of the first condition
+result=Multiplication_or_Sum(20, 30)
+print ("The result is", result)
